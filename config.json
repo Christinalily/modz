@@ -1,0 +1,147 @@
+{
+
+	"author": "Christinalily",
+	"id": "Christinalily-10003",
+	"introduce": "casual game！",
+	"modzList": [{
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.dancingline/com.modz.dancingline.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.dancingline/README.md",
+		"desc": "Dance lines,levels,prompt line,all unlocked",
+		"name": "Unlock All",
+		"pkgName": "com.modz.dancingline",
+		"versionCode": 10,
+		"versionName": "1.0.10",
+		"target": "com.cmplay.dancingline",
+		"support": "1020108",
+		"gameName": "Dancingline",
+		"iconUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.dancingline/screenshot/icon.png",
+		"changelog": [{
+			"versionCode": 10,
+			"versionName": "1.0.10",
+			"whatsNew": "support game version 2.1.7(1020117)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Christinalily/modz/raw/master/com.modz.dancingline/screenshot/DancingLinemod.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.cmplay.dancingline",
+			"https://apkpure.com/cn/dancing-line/com.cmplay.dancingline"
+		]
+	}, {
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.HungrySharkEvolution/com.modz.HungrySharkEvolution.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.HungrySharkEvolution/README.md",
+		"desc": "Invincible and Boost",
+		"name": "No Die!",
+		"pkgName": "com.modz.HungrySharkEvolution",
+		"versionCode": 21,
+		"versionName": "1.0.21",
+		"target": "com.fgol.HungrySharkEvolution",
+		"support": "*",
+		"iconUrl": "",
+		"gameName": "HungrySharkEvolution",
+		"changelog": [{
+			"versionCode": 21,
+			"versionName": "1.0.21",
+			"whatsNew": "support game version 5.9.2(208)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Christinalily/modz/raw/master/com.modz.HungrySharkEvolution/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			"https://youtu.be/G2HBS_Rt7gg"
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution",
+			"https://apkpure.com/hungry-shark-evolution/com.fgol.HungrySharkEvolution"
+		]
+	}, {
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.candycrushsaga/com.modz.candycrushsaga.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.candycrushsaga/README.md",
+		"desc": "i'm rich,i have infinity boosters!",
+		"name": "rich man",
+		"pkgName": "com.modz.candycrushsaga",
+		"versionCode": 5,
+		"versionName": "1.0.05",
+		"target": "com.king.candycrushsaga",
+		"support": "1098101,1123004",
+		"gameName": "Candycrushsaga",
+		"iconUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.candycrushsaga/screenshot/icon.png",
+		"changelog": [{
+				"versionCode": 5,
+				"versionName": "1.0.05",
+				"whatsNew": "support game version  1.098.1.01(1098101) and 1.123.0.04(1123004),Optimize ui"
+			},
+			{
+				"versionCode": 4,
+				"versionName": "1.0.04",
+				"whatsNew": "support game version1.098.1.01(1098101)"
+			}
+		],
+		"screenshotUrl": [
+			"https://github.com/Christinalily/modz/raw/master/com.modz.candycrushsaga/screenshot/CandyCrushSagamod.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.king.candycrushsaga"
+		]
+	}, {
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.colossatron/com.modz.colossatron.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.colossatron/README.md",
+		"desc": "Unlimited purchase",
+		"name": "Colossatron:Unlimited purchase",
+		"pkgName": "com.modz.colossatron",
+		"versionCode": 10,
+		"versionName": "1.0.10",
+		"target": "com.halfbrick.colossatron",
+		"support": "1114",
+		"gameName": "Colossatron",
+		"iconUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.colossatron/screenshot/icon.png",
+		"changelog": [{
+			"versionCode": 10,
+			"versionName": "1.0.10",
+			"whatsNew": "support game version 1.1.1(1114)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Christinalily/modz/raw/master/com.modz.colossatron/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			"https://youtu.be/bo7AqvYIxzs"
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.halfbrick.colossatron",
+			"https://apkpure.com/cn/colossatron/com.halfbrick.colossatron"
+		]
+	}, {
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.potter/com.modz.potter.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.potter/README.md",
+		"desc": "i have infinity Energy!i'm rich!",
+		"name": "Great wizard",
+		"pkgName": "com.Christinalily.modz.colossatron",
+		"versionCode": 10,
+		"versionName": "1.0.10",
+		"target": "com.tinyco.potter",
+		"support": "194",
+		"gameName": "Harry Potter: Hogwarts Mystery",
+		"iconUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.potter/screenshot/icon.png",
+		"changelog": [{
+			"versionCode": 10,
+			"versionName": "1.0.10",
+			"whatsNew": "support game version 1.5.4(194)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Christinalily/modz/raw/master/com.modz.potter/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.tinyco.potter",
+			"https://apkpure.com/harry-potter-hogwarts-mystery/com.tinyco.potter"
+		]
+	}]
+}
