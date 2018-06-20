@@ -14,14 +14,14 @@
 		"target": "com.cmplay.dancingline",
 		"support": "1020108",
 		"gameName": "Dancingline",
-		"iconUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.dancingline/screenshot/icon.png",
+		"iconUrl": "",
 		"changelog": [{
 			"versionCode": 10,
 			"versionName": "1.0.10",
 			"whatsNew": "support game version 2.1.7(1020117)"
 		}],
 		"screenshotUrl": [
-			"https://github.com/Christinalily/modz/raw/master/com.modz.dancingline/screenshot/DancingLinemod.jpg"
+			"https://github.com/Christinalily/modz/raw/master/com.modz.dancingline/screenshot/modz.jpg"
 		],
 		"videoUrl": [
 			""
@@ -68,7 +68,7 @@
 		"target": "com.king.candycrushsaga",
 		"support": "1098101,1123004",
 		"gameName": "Candycrushsaga",
-		"iconUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.candycrushsaga/screenshot/icon.png",
+		"iconUrl": "",
 		"changelog": [{
 				"versionCode": 5,
 				"versionName": "1.0.05",
@@ -81,7 +81,7 @@
 			}
 		],
 		"screenshotUrl": [
-			"https://github.com/Christinalily/modz/raw/master/com.modz.candycrushsaga/screenshot/CandyCrushSagamod.jpg"
+			"https://github.com/Christinalily/modz/raw/master/com.modz.candycrushsaga/screenshot/modz.jpg"
 		],
 		"videoUrl": [
 			""
@@ -92,15 +92,15 @@
 	}, {
 		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.colossatron/com.modz.colossatron.modz",
 		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.colossatron/README.md",
-		"desc": "Unlimited purchase",
-		"name": "Colossatron:Unlimited purchase",
+		"desc": "i have infinity Cash!",
+		"name": "rich man",
 		"pkgName": "com.modz.colossatron",
 		"versionCode": 10,
 		"versionName": "1.0.10",
 		"target": "com.halfbrick.colossatron",
 		"support": "1114",
 		"gameName": "Colossatron",
-		"iconUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.colossatron/screenshot/icon.png",
+		"iconUrl": "",
 		"changelog": [{
 			"versionCode": 10,
 			"versionName": "1.0.10",
@@ -127,7 +127,7 @@
 		"target": "com.tinyco.potter",
 		"support": "194",
 		"gameName": "Harry Potter: Hogwarts Mystery",
-		"iconUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.potter/screenshot/icon.png",
+		"iconUrl": "",
 		"changelog": [{
 			"versionCode": 10,
 			"versionName": "1.0.10",
