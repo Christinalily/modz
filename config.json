@@ -36,15 +36,15 @@
 		"desc": "Invincible and Boost",
 		"name": "No Die!",
 		"pkgName": "com.modz.HungrySharkEvolution",
-		"versionCode": 21,
-		"versionName": "1.0.21",
+		"versionCode": 22,
+		"versionName": "1.0.22",
 		"target": "com.fgol.HungrySharkEvolution",
 		"support": "*",
 		"iconUrl": "",
 		"gameName": "HungrySharkEvolution",
 		"changelog": [{
-			"versionCode": 21,
-			"versionName": "1.0.21",
+			"versionCode": 22,
+			"versionName": "1.0.22",
 			"whatsNew": "support game version 5.9.2(208)"
 		}],
 		"screenshotUrl": [
