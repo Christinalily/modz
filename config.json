@@ -9,15 +9,15 @@
 		"desc": "Dance lines,levels,prompt line,all unlocked",
 		"name": "Unlock All",
 		"pkgName": "com.modz.dancingline",
-		"versionCode": 10,
-		"versionName": "1.0.10",
+		"versionCode": 20,
+		"versionName": "1.0.20",
 		"target": "com.cmplay.dancingline",
 		"support": "1020108",
 		"gameName": "Dancingline",
 		"iconUrl": "",
 		"changelog": [{
-			"versionCode": 10,
-			"versionName": "1.0.10",
+			"versionCode": 20,
+			"versionName": "1.0.20",
 			"whatsNew": "support game version 2.1.7(1020117)"
 		}],
 		"screenshotUrl": [
@@ -95,15 +95,15 @@
 		"desc": "i have infinity Cash!",
 		"name": "rich man",
 		"pkgName": "com.modz.colossatron",
-		"versionCode": 10,
-		"versionName": "1.0.10",
+		"versionCode": 12,
+		"versionName": "1.0.12",
 		"target": "com.halfbrick.colossatron",
 		"support": "1114",
 		"gameName": "Colossatron",
 		"iconUrl": "",
 		"changelog": [{
-			"versionCode": 10,
-			"versionName": "1.0.10",
+			"versionCode": 12,
+			"versionName": "1.0.12",
 			"whatsNew": "support game version 1.1.1(1114)"
 		}],
 		"screenshotUrl": [
@@ -122,15 +122,15 @@
 		"desc": "i have infinity Energy!i'm rich!",
 		"name": "Great wizard",
 		"pkgName": "com.Christinalily.modz.colossatron",
-		"versionCode": 10,
-		"versionName": "1.0.10",
+		"versionCode": 3,
+		"versionName": "1.0.3",
 		"target": "com.tinyco.potter",
 		"support": "194",
 		"gameName": "Harry Potter: Hogwarts Mystery",
 		"iconUrl": "",
 		"changelog": [{
-			"versionCode": 10,
-			"versionName": "1.0.10",
+			"versionCode": 3,
+			"versionName": "1.0.3",
 			"whatsNew": "support game version 1.5.4(194)"
 		}],
 		"screenshotUrl": [
