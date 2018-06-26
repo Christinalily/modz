@@ -159,7 +159,7 @@
 			"versionName": "1.0.1",
 			"whatsNew": "support game version (*)"
 		}],
-		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.color_road/screenshot/modz.jpg",
+		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.color_road/screenshot/modz.jpg"],
 		"videoUrl": [""],
 		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idcom.bigframes.color_road"]
 	}, {
@@ -178,7 +178,7 @@
 			"versionName": "1.0.1",
 			"whatsNew": "support game version (*)"
 		}],
-		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.helixjump/screenshot/modz.jpg",
+		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.helixjump/screenshot/modz.jpg"],
 		"videoUrl": [""],
 		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idcom.h8games.helixjump"]
 	}, {
@@ -197,7 +197,7 @@
 			"versionName": "1.0.1",
 			"whatsNew": "support game version (*)"
 		}],
-		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.ballsvsblocks/screenshot/modz.jpg",
+		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.ballsvsblocks/screenshot/modz.jpg"],
 		"videoUrl": [""],
 		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idcom.bentostudio.ballsvsblocks"]
 	}, {
@@ -216,7 +216,7 @@
 			"versionName": "1.0.1",
 			"whatsNew": "support game version (*)"
 		}],
-		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.voodoo.cube/screenshot/modz.jpg",
+		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.voodoo.cube/screenshot/modz.jpg"],
 		"videoUrl": [""],
 		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idio.voodoo.cube"]
 	}, {
@@ -235,7 +235,7 @@
 			"versionName": "1.0.1",
 			"whatsNew": "support game version (*)"
 		}],
-		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.holeio/screenshot/modz.jpg",
+		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.holeio/screenshot/modz1.jpg", "https://github.com/Christinalily/modz/raw/master/com.modz.holeio/screenshot/modz2.jpg"],
 		"videoUrl": [""],
 		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idio.voodoo.holeio"]
 	}]
