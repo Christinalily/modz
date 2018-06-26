@@ -143,5 +143,100 @@
 			"http://play.google.com/store/apps/details?id=com.tinyco.potter",
 			"https://apkpure.com/harry-potter-hogwarts-mystery/com.tinyco.potter"
 		]
+	}, {
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.color_road/com.modz.color_road.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.color_road/README.md",
+		"desc": "no ads and lock 999 gems",
+		"name": "rich man",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.bigframes.color_road",
+		"support": "*",
+		"gameName": "colorRoad",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"versionName": "1.0.1",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.color_road/screenshot/modz.jpg",
+		"videoUrl": [""],
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idcom.bigframes.color_road"]
+	}, {
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.helixjump/com.modz.helixjump.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.helixjump/README.md",
+		"desc": "no ads",
+		"name": "no ads",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.h8games.helixjump",
+		"support": "*",
+		"gameName": "Helix Jump",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"versionName": "1.0.1",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.helixjump/screenshot/modz.jpg",
+		"videoUrl": [""],
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idcom.h8games.helixjump"]
+	}, {
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.ballsvsblocks/com.modz.ballsvsblocks.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.ballsvsblocks/README.md",
+		"desc": "infinity money",
+		"name": "rich man",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.bentostudio.ballsvsblocks",
+		"support": "*",
+		"gameName": "SnakeVsBlock",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"versionName": "1.0.1",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.ballsvsblocks/screenshot/modz.jpg",
+		"videoUrl": [""],
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idcom.bentostudio.ballsvsblocks"]
+	}, {
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.voodoo.cube/com.modz.voodoo.cube.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.voodoo.cube/README.md",
+		"desc": "infinity Diamond",
+		"name": "rich man",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "io.voodoo.cube",
+		"support": "*",
+		"gameName": "The Cube",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"versionName": "1.0.1",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.voodoo.cube/screenshot/modz.jpg",
+		"videoUrl": [""],
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idio.voodoo.cube"]
+	}, {
+		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.holeio/com.modz.holeio.modz",
+		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.holeio/README.md",
+		"desc": "double speed,add point+2 each time,no ads,so wonderful!",
+		"name": "Devour everything",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "io.voodoo.holeio",
+		"support": "*",
+		"gameName": "hole.io",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"versionName": "1.0.1",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": "https://github.com/Christinalily/modz/raw/master/com.modz.holeio/screenshot/modz.jpg",
+		"videoUrl": [""],
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idio.voodoo.holeio"]
 	}]
 }
