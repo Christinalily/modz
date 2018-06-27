@@ -150,7 +150,7 @@
 		"name": "rich man",
 		"versionCode": 1,
 		"versionName": "1.0.1",
-		"target": "com.bigframes.color_road",
+		"pkgName": "com.bigframes.color_road",
 		"support": "*",
 		"gameName": "colorRoad",
 		"iconUrl": "",
@@ -161,7 +161,7 @@
 		}],
 		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.color_road/screenshot/modz.jpg"],
 		"videoUrl": [""],
-		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idcom.bigframes.color_road"]
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?id=com.bigframes.color_road"]
 	}, {
 		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.helixjump/com.modz.helixjump.modz",
 		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.helixjump/README.md",
@@ -169,7 +169,7 @@
 		"name": "no ads",
 		"versionCode": 1,
 		"versionName": "1.0.1",
-		"target": "com.h8games.helixjump",
+		"pkgName": "com.h8games.helixjump",
 		"support": "*",
 		"gameName": "Helix Jump",
 		"iconUrl": "",
@@ -180,7 +180,7 @@
 		}],
 		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.helixjump/screenshot/modz.jpg"],
 		"videoUrl": [""],
-		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idcom.h8games.helixjump"]
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?id=com.h8games.helixjump"]
 	}, {
 		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.ballsvsblocks/com.modz.ballsvsblocks.modz",
 		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.ballsvsblocks/README.md",
@@ -188,7 +188,7 @@
 		"name": "rich man",
 		"versionCode": 1,
 		"versionName": "1.0.1",
-		"target": "com.bentostudio.ballsvsblocks",
+		"pkgName": "com.bentostudio.ballsvsblocks",
 		"support": "*",
 		"gameName": "SnakeVsBlock",
 		"iconUrl": "",
@@ -199,7 +199,7 @@
 		}],
 		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.ballsvsblocks/screenshot/modz.jpg"],
 		"videoUrl": [""],
-		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idcom.bentostudio.ballsvsblocks"]
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?id=com.bentostudio.ballsvsblocks"]
 	}, {
 		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.voodoo.cube/com.modz.voodoo.cube.modz",
 		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.voodoo.cube/README.md",
@@ -218,7 +218,7 @@
 		}],
 		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.voodoo.cube/screenshot/modz.jpg"],
 		"videoUrl": [""],
-		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idio.voodoo.cube"]
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?id=io.voodoo.cube"]
 	}, {
 		"modz": "https://github.com/Christinalily/modz/raw/master/com.modz.holeio/com.modz.holeio.modz",
 		"readme": "https://github.com/Christinalily/modz/raw/master/com.modz.holeio/README.md",
@@ -226,7 +226,7 @@
 		"name": "Devour everything",
 		"versionCode": 1,
 		"versionName": "1.0.1",
-		"target": "io.voodoo.holeio",
+		"pkgName": "io.voodoo.holeio",
 		"support": "*",
 		"gameName": "hole.io",
 		"iconUrl": "",
@@ -237,6 +237,6 @@
 		}],
 		"screenshotUrl": ["https://github.com/Christinalily/modz/raw/master/com.modz.holeio/screenshot/modz1.jpg", "https://github.com/Christinalily/modz/raw/master/com.modz.holeio/screenshot/modz2.jpg"],
 		"videoUrl": [""],
-		"gameDownloadUrl": ["http://play.google.com/store/apps/details?idio.voodoo.holeio"]
+		"gameDownloadUrl": ["http://play.google.com/store/apps/details?id=io.voodoo.holeio"]
 	}]
 }
